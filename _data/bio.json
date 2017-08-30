@@ -1,15 +1,16 @@
+
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jonathan Nguyen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://jonathanmng.github.io/images/jonathanNg.png",
+    "email": "nn4@hawaii.edu",
+    "phone": "808-277-8292",
+    "website": "https://jonathanmng.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +18,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jonathanmng",
+        "url": "https://jonathanmng.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "jonathanmng",
+        "url": "https://www.linkedin.com/in/jonathan-nguyen-48b751146"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "jonathanmng",
+        "url": "https://twitter.com/JustKidDing92"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jonathanmng",
+        "url": "https://www.instagram.com/h3ll0wor1d/"
       }
     ]
   },
@@ -88,7 +89,7 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.0",
       "courses": [
       ]
     }
