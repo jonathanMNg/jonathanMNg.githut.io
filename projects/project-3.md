@@ -1,60 +1,28 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/projects/project-3/landing-page.jpg
+title: Share Your Notes
+permalink: projects/share-your-notes
+date: 2018-05-06
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - ReactJS
+  - Meteor
+  - MongoDB
+  - NodeJS
+summary: A social app where students can share their notes. This app was built using ReactJS and Meteor.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+This is a group project for one of my ICS classes in Spring 2018 semester. It was based on an idea that I've had since I started college. I think that for some students, especially students who are busy making a living, they are more likely missing lectures and can't take notes to study. The goal for this app is to help students to share their notes with other students who need. Also, the shared notes can also receive feedback from their peers, which may helps the note takers improve their note taking skills as well as their materials.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+So for this project, since we just learned about `ReactJS`, so we decided to build this app using ReactJS and Meteor as our front-end. MongoDB as our database engine, and [Cloudinary](https://cloudinary.com) as our images hosting services, and this app is deployed on Heroku, and you can see it lives [here](https://shareyournotes.herokuapp.com). However, you won't be able to login unless you have an UHID account. Here are some screenshots about the app.
+<div class="ui medium images">
+  <img src="/images/projects/project-3/myboard-page.jpg">
+  <img src="/images/projects/project-3/mynote-page.jpg">
+  <img src="/images/projects/project-3/addnote-page.jpg">
+  <img src="/images/projects/project-3/viewnote-page.jpg">
+</div>
 
-To give you a flavor of the game, here is an excerpt from one run:
+My contribution for this project was to create the API for the notes and courses, make it possible for users to upload and view images, and front-end design. From this project I learned how to work with `ReactJS` framework, one of the most popular framework for Javascript, how to create and control components with React, how to handle images upload, and upload image to a hosting service using `axios` package from NodeJS.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+You can checkout our code on [GitHub <i class="github icon"/>](https://github.com/team-note-sharing/ShareYourNotes)

@@ -2,12 +2,12 @@
 {
   "basics": {
     "name": "Jonathan M Nguyen",
-    "label": "Student",
+    "label": "Computer Scientist",
     "picture": "https://jonathanmng.github.io/images/jonathanNg.png",
     "email": "nn4@hawaii.edu",
     "phone": "808-277-8292",
     "website": "https://jonathanmng.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2018.",
+    "summary": "Thank you for visiting my portfolio. I earned my bachelor degree of science for Computer Science at UH Manoa. Class of 2018",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -25,38 +25,36 @@
         "network": "linkedin",
         "username": "jonathanmng",
         "url": "https://www.linkedin.com/in/jonathan-nguyen-48b751146"
-      },
-      {
-        "network": "twitter",
-        "username": "jonathanmng",
-        "url": "https://twitter.com/JustKidDing92"
-      },
-      {
-        "network": "instagram",
-        "username": "jonathanmng",
-        "url": "https://www.instagram.com/h3ll0wor1d/"
-      }
-    ]
+      },    ]
   },
   "interests": [
     {
-      "name": "Software Development",
+      "name": "Software development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Meteor",
+        "iOS",
+        "Visual Studio"
       ]
     },
     {
-      "name": "programming languages",
+      "name": "Programming languages",
       "keywords": [
         "PHP" ,
         "Java" ,
-        "C" 
+        "C",
+        "Perl",
+        "Python",
+        "Javascript"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "LISP",
+        "Prolog",
+        "Python",
+        "Machine Learning",
+        "Deep Learning"
       ]
     }
   ],
@@ -70,7 +68,10 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "NodeJS",
+        "ReactJS",
+        "Bootstrap"
       ]
     },
     {
@@ -80,8 +81,25 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Wordpress",
+        "Meteor",
+        "Semantic UI",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "IT Services",
+      "level": "Intermediate",
+      "keywords": [
+        "Computer Hardware",
+        "Windows",
+        "Server"
       ]
     }
   ],
@@ -91,16 +109,20 @@
       "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
-      "endDate": "Present",
-      "gpa": "3.0",
+      "endDate": "2018-05-12",
+      "gpa": "3.3",
       "courses": [
-        "ICS 212",
-        "ICS 311",
-        "ICS 312",
-        "ICS 313",
-        "ICS 314",
-        "ICS 415"
-      ]
+        "ICS 212: C/C++",
+        "ICS 311: Algorithm",
+        "ICS 312: Assembly Language",
+        "ICS 313: ICS Lang Theory/ AI",
+        "ICS 314: Software enginnering I",
+        "ICS 321: Data Storage",
+        "ICS 332: Operating System",
+        "ICS 414: Software Engineering II",
+        "ICS 415: Web Design",
+        "ICS 421: Database System II",
+              ]
     }
   ],
   "work": [
@@ -122,7 +144,8 @@
       "position": "Customer Service Associate",
       "website": "http://www.walgreensbootsalliance.com",
       "startDate": "2014-11-24",
-      "endDate": "Present",
+
+      "endDate": "2018",
       "summary": "Cash handling, customer experience improvement,multi-tasking, and teamwork",
       "highlights": [
         "Responsible for hundreds of transactions everyday",
@@ -134,18 +157,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
       "organization": "",
       "website": "",
       "position": "Professional organization involvement",
@@ -153,8 +164,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Member, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present"
+        "Member, ACM Manoa, 2016-2018",
+        "Member, IEEE Student Branch, 2014-2018"
       ]
     }
   ],
@@ -171,6 +182,21 @@
       "awarder": "Honolulu Community College",
       "summary": "I finished 2nd place for the Mousebot Race for the same Engineering Summer Program at Honolulu Community College (See in my Project)"
     }
+  ],
+  "miscellaneous": [
+    {
+      "name": "Vietnamese",
+      "description":"Fluent"
+    },
+    {
+      "name": "Japanese",
+      "description":"Okay. I took Japanese classes at UH up to JAP202 level"
+    },
+    {
+      "name": "Weight lifting",
+      "description":"I can lift up to 50lb"
+    }
+
   ],
   "references": [
     {
