@@ -1,1 +1,1 @@
-ios-tuner.pandora.com
+ios-tuner.pandora.com\services\json\method
