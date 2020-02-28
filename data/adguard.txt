@@ -1,1 +1,3 @@
-ios-tuner.pandora.com\services\json\method
+ios-tuner.pandora.com\services\json\?method=ad.registerAd
+
+test.com
